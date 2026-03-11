@@ -28,9 +28,9 @@ This project transforms raw agricultural data into **actionable insights for imp
 
 # 2️⃣ 🗂️ Data Source
 
+📁 **Dataset:** Karnataka Agricultural Crop Dataset 
 📌 **Source:**  🔗 **Mendeley Dataset:**  
-https://data.mendeley.com/datasets/nfj84km5fz/1/files/8dc6b376-db39-4bd8-acfc-bfbdc0a911a1
-📁 **Dataset:** Karnataka Agricultural Crop Dataset  
+https://data.mendeley.com/datasets/nfj84km5fz/1/files/8dc6b376-db39-4bd8-acfc-bfbdc0a911a1 
 📊 **Size:**
 
 • 1,000+ agricultural records  
